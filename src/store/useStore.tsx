@@ -9,7 +9,7 @@ import {
 
 import sageTableLinen from '../images/sage-table-linen.png';
 import linendrape from '../images/LinenDrape.png';
-import blossomcloth from '../images/Blossomcloth.png';
+import blossomcloth from '../images/blossomcloth.png';
 import bakernapkin from '../images/bakers-cloth-napkin-set.jpg';
 import cherrymit from '../images/Cherry-Oven-Mitt-Duo.jpg';
 import ginghamtablerun from '../images/Gingham-Table-Runner.jpg';
